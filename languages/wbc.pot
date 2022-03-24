@@ -1,0 +1,77 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2020-04-12 16:00+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-wbc-handler.php:33 includes/class-wbc-handler.php:71
+msgid "Cheating!"
+msgstr ""
+
+#: includes/class-wbc-handler.php:41
+msgid "Order id is required"
+msgstr ""
+
+#: includes/class-wbc-handler.php:59
+msgid "Order Confirmation Received"
+msgstr ""
+
+#: includes/class-wbc-handler.php:60
+msgid "Customer has uploaded the payment confirmation image on order no:"
+msgstr ""
+
+#: includes/class-wbc-handler.php:64
+msgid "Thank you, We have received your request"
+msgstr ""
+
+#: includes/class-wbc-handler.php:84
+msgid "Order Confirmation"
+msgstr ""
+
+#: includes/class-wbc-handler.php:99
+msgid "Customer didnt uploaded the payment confirmation image"
+msgstr ""
+
+#: public/class-wbc-public.php:103
+msgid "Allowed file size exceeded. (Max. 2 MB)"
+msgstr ""
+
+#: public/class-wbc-public.php:104
+msgid "Your request has been received"
+msgstr ""
+
+#: public/partials/wbc-public-display.php:48
+msgid "Upload payment confirmation image"
+msgstr ""
+
+#: public/partials/wbc-public-display.php:56
+msgid "Image Preview"
+msgstr ""
+
+#: public/partials/wbc-public-display.php:59
+msgid "Send"
+msgstr ""
+
+#. Name of the plugin
+msgid "WC Bacs Confirm"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"add a form to help customers upload image for confirming their bank transfers"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://innoshop.co/"
+msgstr ""
+
+#. Author of the plugin
+msgid "AhmadWael"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/devwael"
+msgstr ""
